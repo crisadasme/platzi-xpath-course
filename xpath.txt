@@ -1,0 +1,4 @@
+Links = "//a[contains(@class, 'kicker')]/@href"
+Title = "//div[@class='mb-auto']/text-fill/a/text()"
+Summary = "//div[@class='lead']/p/text()"
+Body = "//div[@class='html-content']/p/text()"
